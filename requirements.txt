@@ -1,0 +1,7 @@
+NumPy==2.0.2
+Pandas==2.2.2
+SciPy==1.16.3
+Python==3.12.12
+Matplotlib==3.10.0
+Statsmodels==0.14.6
+Scikit-learn==1.6.1
