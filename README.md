@@ -1,4 +1,4 @@
-# Differential Diagnosis of SARS-CoV-2 vs. Other Lower Respiratory Tract Infections Using Routine Laboratory Parameters
+# Statistical differentiation of Similar Lower Respiratory Tract Infections Using Routine Haematological Parameters
 
 This repository contains the analysis code accompanying the publication.
 All statistical analyses and machine learning models were implemented in Python.
@@ -45,6 +45,6 @@ A multivariate logistic regression model was trained on a selected feature subse
 
 ## Data Availability
 
-The raw dataset used in this study is not included in this repository.  
+The raw dataset used in this study is obtianed from https://www.kaggle.com/einteindata4u/covid19  
 Please refer to the data availability statement in the published article for access instructions.
 
