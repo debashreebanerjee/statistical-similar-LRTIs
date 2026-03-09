@@ -45,6 +45,4 @@ A multivariate logistic regression model was trained on a selected feature subse
 
 ## Data Availability
 
-The raw dataset used in this study is obtianed from https://www.kaggle.com/einteindata4u/covid19  
-Please refer to the data availability statement in the published article for access instructions.
-
+The raw dataset used in this study is obtianed from https://www.kaggle.com/einteindata4u/covid19; the website has not mentioned any data usage restrictions.
