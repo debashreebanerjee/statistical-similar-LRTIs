@@ -1,8 +1,7 @@
 """
 main.py
 -------
-End-to-end analysis pipeline for the differential diagnosis of SARS-CoV-2
-versus other lower respiratory tract infections (LRTIs) using routine
+End-to-end analysis pipeline for the statistical differentiation of the similar lower respiratory tract infections (LRTIs) using routine
 haematological and biochemical parameters.
 
 Execution order
